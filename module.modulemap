@@ -1,4 +1,4 @@
-module CSAM [system] {
+module CSAMSimulationCore [system] {
   header "/usr/local/include/sscapi.h"
   link "ssc"
   export *
