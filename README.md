@@ -1,3 +1,8 @@
-# CSAM
+# CSAMSimulationCore
 
-A description of this package.
+```
+cp files/sscapi.h /usr/local/include/
+cp files/libssc.dylib /usr/local/lib/
+```
+
+
