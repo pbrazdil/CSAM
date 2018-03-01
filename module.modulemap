@@ -1,0 +1,5 @@
+module CSAM [system] {
+  header "/usr/local/include/sscapi.h"
+  link "ssc"
+  export *
+}
